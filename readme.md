@@ -14,5 +14,6 @@ price decimal(6,2),
 comment text);
 
 
+大家好我是陈轶群，谢谢大家观看我的源代码
 
 
